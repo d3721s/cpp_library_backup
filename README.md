@@ -1,5 +1,9 @@
 # cpp_library_backup
 log:
-spdlog
+spdlog-dev
 toml:
-libcpptoml
+libcpptoml-dev
+websocket:
+libwebsocketpp-dev
+media:
+libvlc-dev
